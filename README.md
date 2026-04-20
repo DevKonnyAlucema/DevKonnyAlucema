@@ -32,7 +32,7 @@
 
 
 <!-- ![Estadísticas](https://github-readme-stats.vercel.app/api?username=barliz4&show_icons=true&theme=radical) -->
-![Racha de contribuciones](https://github-readme-streak-stats-eight.vercel.app/?user=barliz4&theme=radical)  
+![Racha de contribuciones](https://github-readme-streak-stats-eight.vercel.app/?user=DevKonnyAlucema&theme=radical)  
 
 </div>  
 
@@ -61,13 +61,13 @@
 
 <p align="center">
   <a href="https://github.com/DevKonnyAlucema">GitHub</a> •
-  <a href="#">LinkedIn</a> •
-  <a href="mailto:tuemail@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/konny-alucema-569241277/">LinkedIn</a> •
+  <a href="lisethtorres969@gmail.com">Email</a>
 </p>
 
 ---
 
-## 💫 Frase
+## 💫 
 
 <p align="center">
   "El código no es solo lógica, es creatividad resolviendo problemas reales."
