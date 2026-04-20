@@ -67,13 +67,5 @@
 
 ---
 
-## 💫 
-
-<p align="center">
-  "El código no es solo lógica, es creatividad resolviendo problemas reales."
-</p>
-
----
-
-⭐ *Siempre aprendiendo. Siempre construyendo.*
+⭐ *El código no es solo lógica, es creatividad resolviendo problemas reales.*
 
