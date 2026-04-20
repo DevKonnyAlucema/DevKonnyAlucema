@@ -1,16 +1,79 @@
-## Hi there 👋
+<h1 align="center">Hola, soy Konny 👩‍💻✨</h1>
+---    
+<p align="center">
+  Apasionada por crear soluciones digitales modernas, eficientes y centradas en el usuario.
+</p>
+---
 
-<!--
-**DevKonnyAlucema/DevKonnyAlucema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Soy desarrolladora de software enfocada en crear aplicaciones limpias, funcionales y bien estructuradas.  
+💡 Disfruto transformar ideas en soluciones digitales reales.  
+🚀 Me encuentro en constante aprendizaje, mejorando mis habilidades y explorando nuevas tecnologías.  
+🌍 Desarrollo proyectos con diseño moderno y experiencias responsive.
+     
+---
+ 
+<div align="center">
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,dotnet,git,github" />
+</p>
+
+---
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 Estadísticas de GitHub.
+
+
+<!-- ![Estadísticas](https://github-readme-stats.vercel.app/api?username=barliz4&show_icons=true&theme=radical) -->
+![Racha de contribuciones](https://github-readme-streak-stats-eight.vercel.app/?user=barliz4&theme=radical)  
+
+</div>  
+
+---
+
+## 🌟 Enfoque Profesional
+
+✔️ Código limpio y mantenible  
+✔️ Diseño moderno (UI/UX)  
+✔️ Desarrollo backend estructurado  
+✔️ Aprendizaje continuo  
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevKonnyAlucema&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevKonnyAlucema&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Conecta conmigo
+
+<p align="center">
+  <a href="https://github.com/DevKonnyAlucema">GitHub</a> •
+  <a href="#">LinkedIn</a> •
+  <a href="mailto:tuemail@gmail.com">Email</a>
+</p>
+
+---
+
+## 💫 Frase
+
+<p align="center">
+  "El código no es solo lógica, es creatividad resolviendo problemas reales."
+</p>
+
+---
+
+⭐ *Siempre aprendiendo. Siempre construyendo.*
+
