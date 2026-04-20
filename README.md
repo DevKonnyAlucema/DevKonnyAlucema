@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Konny 👩‍💻✨</h1>
+<h1 align="center">Hola, soy Konny ✨ (Campuslands / Sena)</h1>
 
 <p align="center">
   Apasionada por crear soluciones digitales modernas, eficientes y centradas en el usuario.
@@ -20,8 +20,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,mysql,dotnet,git,github" />
 </p>
 
----
-
 </div>
 
 ---
@@ -31,7 +29,7 @@
 ## 📊 Estadísticas de GitHub.
 
 
-<!-- ![Estadísticas](https://github-readme-stats.vercel.app/api?username=barliz4&show_icons=true&theme=radical) -->
+<!-- ![Estadísticas] -->
 ![Racha de contribuciones](https://github-readme-streak-stats-eight.vercel.app/?user=DevKonnyAlucema&theme=radical)  
 
 </div>  
