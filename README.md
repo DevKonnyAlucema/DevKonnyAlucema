@@ -1,9 +1,9 @@
 <h1 align="center">Hola, soy Konny 👩‍💻✨</h1>
----    
+
 <p align="center">
   Apasionada por crear soluciones digitales modernas, eficientes y centradas en el usuario.
 </p>
----
+
 
 ✨ Soy desarrolladora de software enfocada en crear aplicaciones limpias, funcionales y bien estructuradas.  
 💡 Disfruto transformar ideas en soluciones digitales reales.  
